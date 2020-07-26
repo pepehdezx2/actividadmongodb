@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/pepehdezx2/.cache/gnome-builder/install/actividadmongodb/host
+app-id=
+postbuild=
+prebuild=
+default=true
